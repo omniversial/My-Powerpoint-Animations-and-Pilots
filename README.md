@@ -9,3 +9,7 @@ Btw, Consider Donating if you like what i do/make :)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V24DIFX)
+
+
+Edit: Turns out my .PPTX(PowerPoint file) is too big for github...
+Tommorow i'll try to compress if possible.
